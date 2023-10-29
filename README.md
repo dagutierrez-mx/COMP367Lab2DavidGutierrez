@@ -13,3 +13,4 @@ First try after changing way to add git PAT
 Second try AFCWTAGP
 First try After Restarting Instance
 First try After Running Pipeline Manually
+Second successful run
